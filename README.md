@@ -1,7 +1,9 @@
 # ControlGAN 
 Pytorch implementation for Controllable Text-to-Image Generation. The goal is to generate images from text, and also allow the user to manipulate synthetic images using natural language descriptions, in one framework. 
 
-### Overview
+### Details
+
+### Overview 
 <img src="archi.jpg" width="900px" height="404px"/>
 
 **[Controllable Text-to-Image Generation](https://papers.nips.cc/paper/8480-controllable-text-to-image-generation.pdf).**  
